@@ -105,9 +105,3 @@ Recommendations:
 
 This project uses a `.env` file to store the API key. The `.gitignore` is configured to prevent it from being pushed to GitHub.
 
----
-
-## 👤 Author
-
-**Simeon Lavarias**  
-GitHub: [@simeonlavarias](https://github.com/simeonlavarias)
